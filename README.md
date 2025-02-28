@@ -53,6 +53,20 @@ stack:
 
 Exploring new technologies in cloud-native ecosystems and enhancing my automation toolkit.
 
+### 🪂 In My Free Time
+
+When I'm not automating systems, you can find me paragliding in the open skies.
+
+### 💻 My Setup
+
+- Linux enthusiast with **ArchLinux** as my distribution of choice
+- **Hyprland** window manager
+- Check out my environment configurations in my [dotfiles repository](https://github.com/aryklein/dotfiles)
+
 ### 📫 Connect With Me
+
+- **Email**: kleinerman[at]gmail[dot]com
+- **Twitter**: [@aryklein](https://twitter.com/aryklein)
+- **LinkedIn**: [My Profile](https://linkedin.com/in/aryklein)
 
 Feel free to reach out for collaborations or just for a chat about infrastructure, automation, or open source!
