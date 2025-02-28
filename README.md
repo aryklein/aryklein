@@ -2,7 +2,8 @@
 
 ## 🚀 Infrastructure Engineer & Automation Enthusiast
 
-I craft resilient, scalable systems and automate everything I can get my hands on.
+I craft resilient, scalable systems and automate everything I can get my hands
+on.
 
 ```yaml
 stack:
@@ -13,7 +14,7 @@ stack:
     - "☁️ Cloud Platforms"
   databases:
     - "🐘 PostgreSQL"
-    - "💾 Various NoSQL solutions"
+    - "💾 Other NoSQL solutions"
   monitoring:
     - "📊 Prometheus"
     - "📈 Grafana"
@@ -31,7 +32,8 @@ stack:
 
 ### 💡 What I Do
 
-- **Infrastructure as Code**: Building and maintaining cloud-native infrastructure
+- **Infrastructure as Code**: Building and maintaining cloud-native
+  infrastructure
 - **Container Orchestration**: Designing and optimizing Kubernetes workflows
 - **Automation**: If I have to do it twice, I automate it
 - **Performance Tuning**: Making systems faster and more reliable
@@ -51,22 +53,26 @@ stack:
 
 ### 🌱 Always Learning
 
-Exploring new technologies in cloud-native ecosystems and enhancing my automation toolkit.
+Exploring new technologies in cloud-native ecosystems and enhancing my
+automation toolkit.
 
 ### 🪂 In My Free Time
 
-When I'm not automating systems, you can find me paragliding in the open skies.
+When I'm not in fron of my computer, you can find me paragliding in the open
+skies.
 
 ### 💻 My Setup
 
-- Linux enthusiast with **ArchLinux** as my distribution of choice
+- Linux enthusiast with **Arch Linux** as my distribution of choice
 - **Hyprland** window manager
-- Check out my environment configurations in my [dotfiles repository](https://github.com/aryklein/dotfiles)
+- Check out my environment configurations in my [dotfiles
+  repository](https://github.com/aryklein/dotfiles)
 
 ### 📫 Connect With Me
 
-- **Email**: kleinerman[at]gmail[dot]com
-- **Twitter**: [@aryklein](https://twitter.com/aryklein)
-- **LinkedIn**: [My Profile](https://linkedin.com/in/aryklein)
+Feel free to reach out for collaborations or just for a chat about
+infrastructure, automation, or paraglading.
 
-Feel free to reach out for collaborations or just for a chat about infrastructure, automation, or open source!
+- **Email**: kleinerman[at]gmail[dot]com
+- **X**: [@aryklein](https://x.com/aryklein)
+- **LinkedIn**: [My Profile](https://linkedin.com/in/kleinerman)
